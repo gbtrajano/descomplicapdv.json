@@ -1,0 +1,12 @@
+{
+    "version": "0.1.0",
+    "notes": "Lançamento do Sistema",
+    "pub_date": "2026-09-05T18:00:00Z",
+    "platforms": {
+      "windows-x86_64": {
+        "signature": "CONTEUDO_COMPLETO_DO_ARQUIVO_EXE_SIG",
+        "url":
+        "https://github.com/SEU-USUARIO/SEU-REPOSITORIO/releases/download/v0.1.1/DescomplicaPDV_0.1.1_x64-setup.exe"
+      }
+    }
+  }
