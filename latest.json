@@ -4,7 +4,7 @@
     "pub_date": "2026-09-05T18:00:00Z",
     "platforms": {
       "windows-x86_64": {
-        "signature": "CONTEUDO_COMPLETO_DO_ARQUIVO_EXE_SIG",
+        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWHFhRVpBd1ZueE1QSE1Va3BHVlczL0N3cGY4eWdCL2swZ21GK2ZQa3FjWkp2Y3ZQOE02bmlIamxEWVJtUUhaUU16VTNTeER5N1ZGMEV2SXpnZllLM0pQNDMxWDJFWHdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NjM5OTUzCWZpbGU6RGVzY29tcGxpY2FQRFZfMC4xLjBfeDY0X3B0LUJSLm1zaQpSaVJQUVllMWZ5SGhsMXZPOUppUDJseTlwc1pGejBXc3dMQ1lsVVYzK0w3dVZVZmJoRWVQVkRuRXZmYWZBVXJNYzhHUWxkbDFrTWxzY2t1L0NDcWhEUT09Cg==",
         "url":
         "https://github.com/SEU-USUARIO/SEU-REPOSITORIO/releases/download/v0.1.1/DescomplicaPDV_0.1.1_x64-setup.exe"
       }
