@@ -1,12 +1,12 @@
 {
-    "version": "0.1.2",
-    "notes": "Remoção de Afiliações",
+    "version": "0.1.3",
+    "notes": "Teste de ATT",
     "pub_date": "2026-09-05T18:00:00Z",
     "platforms": {
       "windows-x86_64": {
-        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWHFhRVpBd1ZueE8zNzFjZjVuRmk1L0hrU2Y3NVdnSFgxUHpZSmI2YmlaNVU1RVcwZVVpNmhOb2VwWk5wWWNqRXlZNDV2cnRLVXI2RFVYTUZKSW5sdGQ3MWFvc0pkWlFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NzM5NjIzCWZpbGU6RGVzY29tcGxpY2FQRFZfMC4xLjJfeDY0X3B0LUJSLm1zaQpvUEMwbU40eTlXUkMyTmt2V0p3endXZ1Bwa1U2cjB1Y083N1p0WW5vczV4R0MrcENSdjB3N3pnaDYyU3lQVWZOSWVhS1pvN0k4M29kYkM3cUV5M2VCQT09Cg==",
+        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWHFhRVpBd1ZueEFZY1lYdStYWG9OVENhWnZxTDF3bEo3QVMwVXRwbWFxRGFrZG5tTXlXV0VOK2dsdS85MEtxaW12R1NuM2s4K2F0aEZucGdNR2VVdlQ0TGUxdkZ0SEFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NzQyMDg2CWZpbGU6RGVzY29tcGxpY2FQRFZfMC4xLjNfeDY0X3B0LUJSLm1zaQpMaEdlUmM5dVU3Wk9aQ3hPaUNkZFBicEU0R3l3c25PWWFzK2owaWk3Y01iVTFBVUs2STBBTVlaVkU5TW1YaW9FcFd2UEREbUh6NmhIU3A3aHExL2VBUT09Cg==",
         "url":
-        "https://github.com/gbtrajano/descomplicapdv.json/releases/download/v0.1.2/DescomplicaPDV_0.1.2_x64_pt-BR.msi"
+        "https://github.com/gbtrajano/descomplicapdv.json/releases/download/v0.1.3/DescomplicaPDV_0.1.3_x64_pt-BR.msi"
       }
     }
   }
