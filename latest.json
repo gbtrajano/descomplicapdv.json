@@ -1,12 +1,12 @@
 {
-    "version": "0.1.5",
-    "notes": "Users Duplicated",
+    "version": "0.1.6",
+    "notes": "Feedback update",
     "pub_date": "2026-09-05T18:00:00Z",
     "platforms": {
       "windows-x86_64": {
-        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWHFhRVpBd1ZueERGU1Q0MzNoa2N4aElGSUE5dkdxUDhnYVNQL1RTdFNZZ1BRVEdxNVV0d0YxNXVuRUxDb0sxTHUySHJvUStjYUdEaU0yWEVBVExrNm9uRmo3Y2tMcFFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NzQ1Nzk5CWZpbGU6RGVzY29tcGxpY2FQRFZfMC4xLjVfeDY0X3B0LUJSLm1zaQpnTnRUWCtnVmdNYXF2T25ZR0ozM1R2cWEzSWVjSnNpUXlUOUJLaE5PQlVIQ3Z0bjNtVDI0Q0JJZVFuMkxna1NUejE1VzZpd1hHUlJkMjBITDhJOUJEZz09Cg==",
+        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWHFhRVpBd1ZueERGWExldVhCM1V4K1JsbHVYSFZJUGZVTVJaN3ljM1FVdmxicHFGTUxyMzZQRzBncVB3UzVuSERSWTE0eE8vSzMxa3pjTDJGdURHNnBneVdPeVc2SmdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NzQ3MzAzCWZpbGU6RGVzY29tcGxpY2FQRFZfMC4xLjZfeDY0X3B0LUJSLm1zaQptSDIwWkJmN1FzYUZ1SUhzTFUxTkJKeUtVa0lTZHNjZG9FS2dhY1k2ajJ3TXd1MkVobGxiendtR0xmSFRwVEZmcnh1UG92bUVsU1EyN0pQMmlMSjZDZz09Cg==",
         "url":
-        "https://github.com/gbtrajano/descomplicapdv.json/releases/download/v.0.1.5/DescomplicaPDV_0.1.5_x64_pt-BR.msi"
+        "https://github.com/gbtrajano/descomplicapdv.json/releases/download/v0.1.6/DescomplicaPDV_0.1.6_x64_pt-BR.msi"
       }
     }
   }
